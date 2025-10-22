@@ -44,7 +44,7 @@ const Navbar = () => {
               <div className="absolute mt-2 w-60 bg-white shadow-lg rounded-md z-10">
                 <Link
                   to="/cook-for-month"
-                  className="block px-4 text-md text-gray-800 h-11 hover:text-orange-700 flex items-center justify-between"
+                  className="block px-4 text-md text-gray-800 h-11 hover:text-orange-700 hover:font-bold flex items-center justify-between"
                   onClick={() => setIsDropdownOpen(false)}
                 >
                   Cook for a Month
@@ -53,7 +53,7 @@ const Navbar = () => {
                 <hr />
                 <Link
                   to="/one-time-cook"
-                  className="block px-4 text-md text-gray-800 h-11 hover:text-orange-700 flex items-center justify-between"
+                  className="block px-4 text-md text-gray-800 h-11 hover:text-orange-700 hover:font-bold flex items-center justify-between"
                   onClick={() => setIsDropdownOpen(false)}
                 >
                   Chef: One Time Cook
@@ -62,7 +62,7 @@ const Navbar = () => {
                 <hr />
                 <Link
                   to="/chef-for-party"
-                  className="block px-4 text-md text-gray-800 h-11 hover:text-orange-700 flex items-center justify-between"
+                  className="block px-4 text-md text-gray-800 h-11 hover:text-orange-700 hover:font-bold flex items-center justify-between"
                   onClick={() => setIsDropdownOpen(false)}
                 >
                   Chef for Party
@@ -72,7 +72,7 @@ const Navbar = () => {
             )}
           </div>
 
-          <Link to="#" className="mr-5 hover:text-black font-bold">
+          <Link to="/join-with-chef" className="mr-5 hover:text-black font-bold">
             ChefKart से जुड़ें
           </Link>
           <Link to="#" className="mr-5 hover:text-black font-bold">

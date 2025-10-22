@@ -28,7 +28,7 @@ const Footer = () => {
                     <Link to="#" className="text-black hover:text-white">Chefit: One-Time Cook</Link>
                     </li>
                     <li>
-                    <Link to="#" className="text-black hover:text-white">ChefKart से जुड़ें</Link>
+                    <Link to="/join-with-chef" className="text-black hover:text-white">ChefKart से जुड़ें</Link>
                     </li>
                     <li>
                     <Link to="#" className="text-black hover:text-white">Cooks Near Me</Link>
