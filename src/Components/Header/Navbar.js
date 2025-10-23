@@ -43,7 +43,7 @@ const Navbar = () => {
             {isDropDownOpen && (
               <div className="absolute mt-2 w-60 bg-white shadow-lg rounded-md z-10">
                 <Link
-                  to="/cook-for-month"
+                  to="/cook-for-a-month"
                   className="block px-4 text-md text-gray-800 h-11 hover:text-orange-700 hover:font-bold flex items-center justify-between"
                   onClick={() => setIsDropdownOpen(false)}
                 >

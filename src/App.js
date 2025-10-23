@@ -7,6 +7,7 @@ import NotificationBanner from "./Components/Header/Head"
 import Footer from "./Components/Footer/Footer"
 import Navbar from "./Components/Header/Navbar"
 import ChefConnection from "./Components/ChefConnection/ChefConnection"
+import CookForAMonth from "./Components/CookForAMonth/CookForAMonth"
 
 
 const App = () => {
@@ -19,6 +20,7 @@ const App = () => {
         <Route path="about" element={ <About/> } />
         <Route path="contact" element={ <Contact/> } />
         <Route path="join-with-chef" element={ <ChefConnection/> } />
+        <Route path="cook-for-a-month" element={ <CookForAMonth/> } />
       </Routes>
       <Footer/>
     </div>
