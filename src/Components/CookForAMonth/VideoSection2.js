@@ -1,4 +1,4 @@
-const VideoSection = () => {
+const VideoSection2 = () => {
   return (
     <div>
       <section className="text-gray-600 body-font">
@@ -14,10 +14,10 @@ const VideoSection = () => {
             <div className="flex flex-wrap mt-auto mb-auto lg:w-1/2 sm:w-2/3 content-start sm:pr-10 px-4">
               <div className="w-full mb-6">
                 <h1 className="text-9xl font-bold text-black mb-4">“</h1>
-                <p className="leading-relaxed text-3xl md:text-4xl text-gray-700">
-                  जहाँ आपको इज़्ज़त नहीं मिले, ChefKart उस घर में आपको कभी नहीं भेजेगी।
+                <p className="leading-relaxed text-3xl md:text-3xl text-gray-700">
+                  This is a much-required service that is convenient and more affordable than ordering online.
                 </p>
-                <p className="mt-4 text-sm text-orange-700 font-bold">अजनहर बीबी</p>
+                <p className="mt-4 text-1xl text-orange-700 font-bold">Rishi</p>
               </div>
             </div>
 
@@ -29,7 +29,7 @@ const VideoSection = () => {
                 loop
                 muted
                 playsInline
-                src="https://storage.googleapis.com/chefkart-strapi-media/cook_vid_low_quality_8_mb_c474611303.mp4"
+                src="https://storage.googleapis.com/chefkart-strapi-media/testemonial_0f93413c4a.mp4"
               ></video>
             </div>
           </div>
@@ -39,4 +39,4 @@ const VideoSection = () => {
   );
 };
 
-export default VideoSection;
+export default VideoSection2;
