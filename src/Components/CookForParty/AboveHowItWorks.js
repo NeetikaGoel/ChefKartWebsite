@@ -1,25 +1,25 @@
 const AboveHowItWorks = () => {
   const features = [
     {
-      title: "Healthy & Hygienic Food",
-      description: "Healthy food cooked in your kitchen with utmost hygiene.",
+      title: "Multi-Cuisine Professionals",
+      description: "Professional party chefs to ensure a diverse & exquisite dining experience",
       icon: "https://storage.googleapis.com/chefkart-strapi-media/healthy_hygienic_a9878d9090.svg",
     },
     {
-      title: "Tailored to Your Taste",
-      description: "Food prepared according to your taste and preferences.",
-      icon: "https://storage.googleapis.com/chefkart-strapi-media/tailored_to_taste_33cb681b66.svg",
-    },
-    {
-      title: "Trained & Verified Cooks",
-      description:
-        "Professionally trained & background verified cooks for quality service.",
-      icon: "https://storage.googleapis.com/chefkart-strapi-media/professional_cooks_ec13508556.svg",
-    },
-    {
-      title: "Quick Service",
-      description: "Assured cook arrival within 60 minutes of booking.",
+      title: "Prompt Service",
+      description: "Swift service to ensure that your party kicks off as planned",
       icon: "https://storage.googleapis.com/chefkart-strapi-media/timely_service_3a6f9d9ebe.svg",
+    },
+    {
+      title: "Customizable menu",
+      description:
+        "Food from around the world to make your event the talk of the town",
+      icon: "https://storage.googleapis.com/chefkart-strapi-media/easy_booking_92fea7ca01.svg",
+    },
+    {
+      title: "Bartenders, Waiters, etc.",
+      description: "Expert bartenders & waiters to leave your guests in awe",
+      icon: "https://storage.googleapis.com/chefkart-strapi-media/bartenders_48bb601645.svg",
     },
   ];
 

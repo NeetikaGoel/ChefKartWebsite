@@ -10,7 +10,7 @@ const BelowBanner = () => {
               <span className="text-orange-700 text-lg font-semibold block mb-1">
                 Why Choose
               </span>
-              Chefit: One-Time Cook
+              Chef for Party
             </h2>
           </div>
 
@@ -20,7 +20,7 @@ const BelowBanner = () => {
           {/* Right Section */}
           <div className="md:w-3/5 md:pl-6 text-left md:text-left mt-6 md:mt-0">
             <p className="leading-relaxed text-lg font-semibold text-gray-800">
-              Get a certified cook for one-time to prepare delicious food in your kitchen.
+              Hire a professional Multi-cuisine expert chef to elevate your party hosting experience.
             </p>
           </div>
 

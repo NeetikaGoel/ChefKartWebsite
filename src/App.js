@@ -8,6 +8,7 @@ import Footer from "./Components/Footer/Footer"
 import Navbar from "./Components/Header/Navbar"
 import ChefConnection from "./Components/ChefConnection/ChefConnection"
 import CookForAMonth from "./Components/CookForAMonth/CookForAMonth"
+import CookForParty from "./Components/CookForParty/CookForParty"
 
 
 const App = () => {
@@ -21,6 +22,7 @@ const App = () => {
         <Route path="contact" element={ <Contact/> } />
         <Route path="join-with-chef" element={ <ChefConnection/> } />
         <Route path="cook-for-a-month" element={ <CookForAMonth/> } />
+        <Route path="chef-for-party" element={ <CookForParty/> } />
       </Routes>
       <Footer/>
     </div>
