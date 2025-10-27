@@ -24,23 +24,25 @@ const AboveHowItWorks = () => {
   ];
 
   return (
-    <section className="text-gray-600 body-font">
-      <div className="container px-5 py-4 mx-auto">
-        <div className="flex flex-wrap -m-4">
+    <section className="bg-gray-200 py-10">
+      <div className="container mx-auto px-5">
+        <div className="grid md:grid-cols-2 gap-6 border border-gray-300">
           {features.map((feature, index) => (
-            <div key={index} className="p-4 lg:w-1/2 md:w-full">
-              <div className="flex border-2 rounded-lg border-gray-200 border-opacity-50 p-8 sm:flex-row flex-col bg-red-950">
-                <div className="w-16 h-16 sm:mr-8 sm:mb-0 mb-4 inline-flex items-center justify-center rounded-full bg-orange-100 flex-shrink-0">
-                  <img src={feature.icon} alt={feature.title} />
-                </div>
-                <div className="flex-grow">
-                  <h2 className="text-white text-lg title-font font-medium mb-3">
-                    {feature.title}
-                  </h2>
-                  <p className="leading-relaxed text-white text-base">
-                    {feature.description}
-                  </p>
-                </div>
+            <div
+              key={index}
+              className="border border-gray-300 md:border-none md:border-r md:border-b last:border-none
+              flex gap-4 p-6 bg-white rounded-lg shadow-sm"
+            >
+              <div className="w-14 h-14 flex items-center justify-center rounded-full bg-orange-100">
+                <img src={feature.icon} alt={feature.title} />
+              </div>
+              <div>
+                <h3 className="text-lg font-bold text-orange-700">
+                  {feature.title}
+                </h3>
+                <p classnName="text-gray-700 text-sm mt-2">
+                  {feature.description}
+                </p>
               </div>
             </div>
           ))}

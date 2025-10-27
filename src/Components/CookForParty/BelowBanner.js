@@ -1,12 +1,12 @@
 const BelowBanner = () => {
   return (
     <div>
-      <section className="text-gray-600 body-font">
+      <section className="text-gray-600 body-font bg-gray-200">
         <div className="container px-5 py-8 mx-auto flex flex-col md:flex-row items-center">
 
           {/* Left Section */}
           <div className="md:w-2/5 flex flex-col items-start md:items-center text-left md:text-center">
-            <h2 className="text-2xl sm:text-3xl text-gray-900 font-extrabold leading-tight">
+            <h2 className="text-4xl sm:text-4xl text-gray-900 font-bold leading-tight">
               <span className="text-orange-700 text-lg font-semibold block mb-1">
                 Why Choose
               </span>
@@ -15,7 +15,7 @@ const BelowBanner = () => {
           </div>
 
           {/* Orange Divider */}
-          <div className="hidden md:block w-1 bg-red-950 mx-8 h-24"></div>
+          <div className="hidden md:block w-1 bg-orange-500 mx-8 h-24"></div>
 
           {/* Right Section */}
           <div className="md:w-3/5 md:pl-6 text-left md:text-left mt-6 md:mt-0">

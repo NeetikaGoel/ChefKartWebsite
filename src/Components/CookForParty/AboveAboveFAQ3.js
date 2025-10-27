@@ -3,12 +3,15 @@ import { Link } from 'react-router-dom'
 const AboveAboveFAQ3 = () => {
   return (
     <div>
-      <section className="text-gray-600 body-font bg-green-900">
+      <section className="text-gray-600 body-font bg-gray-100">
         <div className="flex md:flex-row flex-col items-center">
           {/* Right Text */}
           <div className="w-full md:w-1/2 lg:pl-24 md:pl-16 flex flex-col md:items-start md:text-left items-center text-center px-6 md:px-0">
-            <h2 className="text-orange-700 text-lg mb-1 font-bold">
+          <h1 className="text-black text-4xl mb-1 font-bold">
               Let Food Do The Talking
+            </h1>
+            <h2 className="text-black text-lg mt-3">
+              Enjoy the spotlight with a chef for birthday, kitty party, anniversaries, house-warming, farewell, and any other party.
             </h2>
             
           </div>
@@ -36,7 +39,7 @@ const AboveAboveFAQ3 = () => {
           </div>
 
           {/* Right Text */}
-          <div className="w-full md:w-1/2 lg:pl-24 md:pl-16 flex flex-col md:items-start md:text-left items-center text-center px-6 md:px-0">
+          <div className="w-full md:w-1/2 lg:pl-16 md:pl-24 flex flex-col md:items-start md:text-left items-center text-center px-4 md:px-0">
             <h1 className="text-orange-400 text-3xl mb-1 font-bold">
               The Taste of Luxury <span className="text-white">Experience elevated culinary perfection, as our</span> highly skilled chefs <span className="text-white">take your party to new heights.</span> 
             </h1>

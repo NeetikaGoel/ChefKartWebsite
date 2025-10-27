@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom'
 const AboveAboveFAQ3 = () => {
   return (
     <div>
-      <section className="text-gray-600 body-font bg-orange-200">
+      <section className="text-gray-600 body-font bg-gray-100">
         <div className="flex md:flex-row flex-col items-center">
           {/* Left Image */}
           <div className="w-full md:w-1/2 h-full">

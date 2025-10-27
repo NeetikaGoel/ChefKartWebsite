@@ -1,7 +1,7 @@
 const BelowBanner = () => {
   return (
     <div>
-      <section className="text-gray-600 body-font">
+      <section className="text-gray-600 bg-gray-200 body-font">
         <div className="container px-5 py-8 mx-auto flex flex-col md:flex-row items-center">
 
           {/* Left Section */}
@@ -15,7 +15,7 @@ const BelowBanner = () => {
           </div>
 
           {/* Orange Divider */}
-          <div className="hidden md:block w-1 bg-red-950 mx-8 h-24"></div>
+          <div className="hidden md:block w-1 bg-orange-500 mx-8 h-24"></div>
 
           {/* Right Section */}
           <div className="md:w-3/5 md:pl-6 text-left md:text-left mt-6 md:mt-0">
