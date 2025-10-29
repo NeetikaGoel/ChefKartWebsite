@@ -24,11 +24,11 @@ const Factors4 = () => {
         {/* Left Text Section */}
         <div className="lg:w-1/2 text-left flex flex-col justify-center">
           <h1 className="text-3xl lg:text-4xl font-bold mb-4">
-            Our affordable prices are based on{' '}
+            Our Affordable Prices are based on{' '}
             <span className="text-orange-600">4 Factors</span>
           </h1>
           <p className="text-2xl font-medium text-gray-700">
-            Minimum prices guaranteed*
+            Minimum Prices Guaranteed*
           </p>
         </div>
 
