@@ -6,7 +6,7 @@ const slides = [
     imageMobile:
       'https://thechefkart.com/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fchefkart-strapi-media%2FChef_for_party_hero_banner_01_mob_90fa69d19a.webp&w=3840&q=75',
     // title: '',
-    subtitle: 'Experience the taste from around the world without leaving the coziness of home.',
+    subtitle: 'Experience the Taste from around the World without leaving the Coziness of Home.',
     button: 'Get Started',
   },
 ]
