@@ -3,7 +3,7 @@
 const HowItWorks = () => {
   return (
     <div>
-      
+      <div></div>
     </div>
   )
 }

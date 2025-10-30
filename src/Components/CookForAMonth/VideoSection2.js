@@ -15,7 +15,7 @@ const VideoSection2 = () => {
               <div className="w-full mb-6">
                 <h1 className="text-9xl font-bold text-black mb-4">“</h1>
                 <p className="leading-relaxed text-3xl md:text-3xl text-gray-700">
-                  This is a much-required service that is convenient and more affordable than ordering online.
+                  This is a much-required service that is Convenient and More Affordable than ordering online.
                 </p>
                 <p className="mt-4 text-1xl text-orange-700 font-bold">Rishi</p>
               </div>
