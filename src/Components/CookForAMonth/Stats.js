@@ -38,7 +38,7 @@ const Stats = () => {
                 <h2 className="title-font font-extrabold text-3xl text-gray-900">
                   10K+
                 </h2>
-                <p className="leading-relaxed font-medium">Households served</p>
+                <p className="leading-relaxed font-medium">Households Served</p>
               </div>
             </div>
 
