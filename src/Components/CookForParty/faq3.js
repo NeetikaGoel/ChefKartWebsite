@@ -25,12 +25,12 @@ const faqs = [
   {
     question: "What can I expect my cook to do post cooking?",
     answer:
-      "No, we do not provide post-service utensil cleaning. The cook will tidy the cooking area, transfer food to serving bowls, and place used utensils in the sink with water. The kitchen and countertops will be left clean.",
+      "No, we do not provide post-service utensil cleaning. The cook will tidy the cooking area, transfer food to serving bowls, and place used utensils in the sink with water. The kitchen and counter-tops will be left clean.",
   },
   {
     question: "How many dishes can the cook prepare??",
     answer:
-      "The cook can prepare up to 4 dishes as part of the service, which includes a variety of daily home-cooked meals like Dal, Chawal, Roti, and Sabzi (Roti and Chawal are included within the dishes).",
+      "The cook can prepare up to 4 dishes as part of the service, which includes a variety of daily home-cooked meals like Dal, Chawal, Roti and Sabzi (Roti and Chawal are included within the dishes).",
   },
   {
     question: "How long will a cook stay at my booking?",
@@ -43,7 +43,7 @@ const faqs = [
       "Chefit specializes in providing daily home-cooked meals, preparing up to four different dishes. For events like house parties or get-togethers, we recommend our Chef for Party service, which offers professional, multi-cuisine expertise tailored to your gathering's needs.",
   },
   {
-    question: "Can I hire the same professional for the 'cook for a month' service?",
+    question: "Can I hire the same professional for the 'Cook for a Month' service?",
     answer:
       "No, Chefit provides a one-time cooking service. For a monthly arrangement, we recommend booking through our 'Cook for a Month' service by scheduling a trial. For any concerns, please contact our customer support.",
   },
