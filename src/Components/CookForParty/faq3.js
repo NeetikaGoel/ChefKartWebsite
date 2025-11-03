@@ -20,12 +20,12 @@ const faqs = [
   {
     question: "Will Chefit provide groceries along with the service?",
     answer:
-      "No, groceries are not provided. You need to manage the groceries yourself.",
+      "No, Groceries are not provided. You need to manage the groceries yourself.",
   },
   {
     question: "What can I expect my cook to do post cooking?",
     answer:
-      "No, we do not provide post-service utensil cleaning. The cook will tidy the cooking area, transfer food to serving bowls, and place used utensils in the sink with water. The kitchen and counter-tops will be left clean.",
+      "No, we do not provide post-service utensil cleaning. The cook will tidy the cooking area, transfer food to serving bowls and place used utensils in the sink with water. The kitchen and counter-tops will be left clean.",
   },
   {
     question: "How many dishes can the cook prepare??",
