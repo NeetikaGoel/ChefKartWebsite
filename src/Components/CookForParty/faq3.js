@@ -60,7 +60,7 @@ const faqs = [
   {
     question: "How can I get support related to my booking?",
     answer:
-      "For support, contact us through the ‘Help & Support section’ on the ChefKart App. Our support team is available from 06:00 AM to 09:30 PM.",
+      "For support, contact us through the ‘Help & Support Section’ on the ChefKart App. Our Support Team is available from 06:00 AM to 09:30 PM.",
   }
 ];
 

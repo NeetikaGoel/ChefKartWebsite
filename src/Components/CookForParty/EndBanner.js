@@ -13,7 +13,7 @@ const EndBanner = () => {
         
         <h2 className="text-xl md:text-xl lg:text-xl font-medium">
           
-          What are you Waiting for, when it’s
+          What are you waiting for, when it’s
         </h2>
         <p className="text-4xl font-bold text-orange-400 mt-4">
           
