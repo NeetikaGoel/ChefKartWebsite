@@ -7,18 +7,18 @@ const AboveHowItWorks = () => {
     },
     {
       title: "Prompt Service",
-      description: "Swift service to ensure that your party kicks off as planned!",
+      description: "Swift Service to ensure that your party kicks off as planned!",
       icon: "https://storage.googleapis.com/chefkart-strapi-media/timely_service_3a6f9d9ebe.svg",
     },
     {
-      title: "Customizable menu",
+      title: "Customizable Menu",
       description:
         "Food from around the world to make your event the talk of the town!",
       icon: "https://storage.googleapis.com/chefkart-strapi-media/easy_booking_92fea7ca01.svg",
     },
     {
       title: "Bartenders, Waiters, etc.",
-      description: "Expert bartenders & waiters to leave your guests in awe!",
+      description: "Expert Bartenders & Waiters to leave your guests in Awe!",
       icon: "https://storage.googleapis.com/chefkart-strapi-media/bartenders_48bb601645.svg",
     },
   ];

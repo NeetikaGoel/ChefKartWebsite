@@ -20,7 +20,7 @@ const BelowBanner = () => {
           {/* Right Section */}
           <div className="md:w-3/5 md:pl-6 text-left md:text-left mt-6 md:mt-0">
             <p className="leading-relaxed text-lg font-semibold text-gray-800">
-              Hire a professional Multi-cuisine expert chef to elevate your party hosting experience.
+              Hire a Professional Multi-cuisine expert chef to elevate your party hosting experience.
             </p>
           </div>
 

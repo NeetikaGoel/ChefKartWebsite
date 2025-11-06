@@ -50,7 +50,7 @@ const faqs = [
   {
     question: "What are the cancellation and refund policies?",
     answer:
-      "We provide a 100% refund if you cancel before a cook has been assigned. If you cancel after a cook has been assigned, a 20% cancellation fee will be charged.",
+      "We provide a 100% Refund if you cancel before a cook has been assigned. If you cancel after a cook has been assigned, a 20% Cancellation Fee will be charged.",
   },
   {
     question: "When will the cook be assigned for a Chefit booking?",
@@ -60,7 +60,7 @@ const faqs = [
   {
     question: "How can I get support related to my booking?",
     answer:
-      "For support, contact us through the ‘Help & Support Section’ on the ChefKart App. Our Support Team is available from 06:00 AM to 09:30 PM.",
+      "For Support, Contact us through the ‘Help & Support Section’ on the ChefKart App. Our Support Team is available from 06:00 AM to 09:30 PM.",
   }
 ];
 
