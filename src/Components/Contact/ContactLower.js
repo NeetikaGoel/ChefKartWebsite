@@ -5,7 +5,7 @@ const ContactLower = () => {
       <section className="text-gray-600 body-font">
           <div className="container mx-auto flex px-5 py-24 md:flex-row gap-x-10 flex-col items-center">
           <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6 mb-10 md:mb-0">
-               <p className="mb-8 leading-relaxed font-bold text-red-950">Our mission is to provide at-home cooking services in a way that has never been experienced before by empowering millions of cooks across India</p>
+               <p className="mb-8 leading-relaxed font-bold text-red-950">Our mission is to provide At-Home cooking services in a way that has never been experienced before by empowering millions of cooks across India</p>
                <img className="object-cover object-center rounded" alt="hero" src="https://thechefkart.com/_next/image?url=%2FM_F_Home%20chef_refine%201.png&w=1920&q=75"/>
           </div>
           <div className="lg:max-w-lg lg:w-full md:w-1/2 gap-x-10 w-5/6 mb-10 md:mb-0">
